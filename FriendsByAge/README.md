@@ -1,4 +1,4 @@
-#Friends By Age
+# Friends By Age
 
 This was a simple demonstration of mrjob.
 
